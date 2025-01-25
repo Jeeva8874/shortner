@@ -2,10 +2,10 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = '📦 Repo 📦'
-    ST_BN1_URL = 'https://www.github.com/weebzone/WZML-X'
+    ST_BN1_NAME = '🙋 Owner'
+    ST_BN1_URL = 'https://t.me/HeartThieft_bot'
     ST_BN2_NAME = '🚀 Updates 🚀'
-    ST_BN2_URL = 'https://t.me/OMGxCloud'
+    ST_BN2_URL = 'https://t.me/HeartXBotz    '
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
@@ -14,7 +14,7 @@ class WZMLStyle:
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
     ACTIVATE_BUTTON = 'Activate Temporary Token'
-    TOKEN_MSG = '''<b><u>Generated Temporary Login Token!</u></b>
+    TOKEN_MSG = '''<b><u>Ge    nerated Temporary Login Token!</u></b>
 <b>Temp Token:</b> <code>{token}</code>
 <b>Validity:</b> {validity}'''
     # ---------------------
@@ -36,7 +36,7 @@ class WZMLStyle:
     USER_BT = 'Users'
     MICS_BT = 'Mics'
     O_S_BT = 'Owner & Sudos'
-    CLOSE_BT = 'Close'
+    CLOSE_BT = '❌'
     HELP_HEADER = "㊂ <b><i>Help Guide Menu!</i></b>\n\n<b>NOTE: <i>Click on any CMD to see more minor detalis.</i></b>"
 
     # async def stats(client, message):
@@ -44,21 +44,21 @@ class WZMLStyle:
 
 <b>⏰ Bot Uptime :</b> <code>{bot_uptime}</code>
 
-<b>🎮 RAM ( MEMORY ) 🎮</b>
+<b>🌐 RAM ( MEMORY ) 🎮</b>
 
 <b>┌ {ram_bar} {ram}%</b>
 <b>├ Used:</b> <code>{ram_u}</code>
 <b>├ Free :</b> <code>{ram_f}</code>
 <b>└ Total :</b> <code>{ram_t}</code>
 
-<b>💿 SWAP MEMORY 💿</b>
+<b>👒 SWAP MEMORY 💿</b>
 
 <b>┌ {swap_bar} {swap}%</b>
 <b>├ Used:</b> <code>{swap_u}</code>
 <b>├ Free :</b> <code>{swap_f}</code>
 <b>└ Total :</b> <code>{swap_t}</code>
 
-<b>💾 DISK 💾</b>
+<b>💽 DISK 💽</b>
 
 <b>┌ {disk_bar} {disk}%</b>
 <b>├ Total Disk Read :</b> <code>{disk_read}</code>
@@ -66,6 +66,8 @@ class WZMLStyle:
 <b>├ Used :</b> <code>{disk_u}</code>
 <b>├ Free :</b> <code>{disk_f}</code>
 <b>└ Total :</b> <code>{disk_t}</code> 
+
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a> 
     '''
     
     SYS_STATS = '''<b>📊 OS SYSTEM 📊</b>
