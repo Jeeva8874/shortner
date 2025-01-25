@@ -356,4 +356,4 @@ class WZMLStyle:
 <b>├ 🌈 Leech Remname :</b> <code>{LREMNAME}</code>
 <b>└ 📄 Leech Caption :</b> <code>{LCAPTION}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>''''''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
