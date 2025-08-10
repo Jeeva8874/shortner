@@ -5,7 +5,7 @@ class WZMLStyle:
     ST_BN1_NAME = '🙋 Owner'
     ST_BN1_URL = 'https://t.me/HeartThieft_bot'
     ST_BN2_NAME = 'Updates 📑'
-    ST_BN2_URL = 'https://t.me/HeartXBotz'
+    ST_BN2_URL = 'https://t.me/HeartXBots'
     ST_MSG = '''<i>Tʜɪs ʙᴏᴛ ᴄᴀɴ ᴍɪʀʀᴏʀ ᴀʟʟ ʏᴏᴜʀ ʟɪɴᴋs|ғɪʟᴇs|ᴛᴏʀʀᴇɴᴛs ᴛᴏ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ ᴏʀ ᴀɴʏ ʀᴄʟᴏɴᴇ ᴄʟᴏᴜᴅ ᴏʀ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀ ᴛᴏ ᴅᴅʟ sᴇʀᴠᴇʀs.</i>
 <b>Tʏᴘᴇ {help_command} ᴛᴏ ɢᴇᴛ ᴀ ʟɪsᴛ ᴏғ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs</b>'''
     ST_BOTPM = '''<i>Nᴏᴡ, Tʜɪs ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ᴀʟʟ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ʟɪɴᴋs ʜᴇʀᴇ. Sᴛᴀʀᴛ Usɪɴɢ ...</i>'''
@@ -57,7 +57,7 @@ class WZMLStyle:
 ┃ <b>Total Disk Write :</b> {disk_write}
 ┖ <b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>  
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>  
     '''
     SYS_STATS = '''🛠 <b><i>Os Sʏsᴛᴇᴍ :</i></b>
 ┎ <b>⏰ OS Uptime :</b> {os_uptime}
@@ -79,7 +79,7 @@ class WZMLStyle:
 ┠ <b>Total Core(s) :</b> {total_core}
 ┖ <b>Usable CPU(s) :</b> {cpu_use}
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>
     '''
     REPO_STATS = '''🧑‍💻 <b><i>Rᴇᴘᴏ Sᴛᴀᴛɪsᴛɪᴄs :</i></b>
 ┎ <b>🕶️🤏 Bot Updated :</b> {last_commit}
@@ -88,7 +88,7 @@ class WZMLStyle:
 
 💥 <b>REMARKS :</b> <code>{remarks}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>
     '''
     BOT_LIMITS = '''⌬ <b><i>Bᴏᴛ Lɪᴍɪᴛᴀᴛɪᴏɴs :</i></b>
 ┎ <b>🎯 Dɪʀᴇᴄᴛ Lɪᴍɪᴛ :</b> {DL} Gʙ
@@ -105,7 +105,7 @@ class WZMLStyle:
 ┠ <b>👤 Usᴇʀ Pᴀʀᴀʟʟᴇʟ Tᴀsᴋs :</b> {UT}
 ┖ <b>🚧 Bᴏᴛ Pᴀʀᴀʟʟᴇʟ Tᴀsᴋs :</b> {BT}
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>
     '''
     # ---------------------
 
@@ -179,7 +179,7 @@ class WZMLStyle:
 
     # def get_readable_message(): ---> bot_utilis.py
     ####--------OVERALL MSG HEADER----------
-    STATUS_NAME =       '<b>{Name}</b>\n┎━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
+    STATUS_NAME =       '<b>{Name}</b>\n┎━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬</b></a> » ━━━━༻'
 
     #####---------PROGRESSIVE STATUS-------
     BAR =               '\n┃ {Bar}'
@@ -210,7 +210,7 @@ class WZMLStyle:
     USER =           '\n┠ <b>🪪ᴜsᴇʀ:</b> <code>{User}</code>'
     ID =             '\n┠ <b>🆔ɪᴅ:</b> <code>{Id}</code>'
     BTSEL =          '\n┠ <b>💫sᴇʟᴇᴄᴛ:</b> {Btsel}'
-    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n'
+    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬</b></a> » ━━━━༻\n'
 
     ####------FOOTER--------
     FOOTER = '⌬ <b><i>ʙᴏᴛ sᴛᴀᴛs</i></b>\n'
@@ -270,7 +270,7 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     UNIVERSAL = '''㊂ <b><u>Universal Settings : {NAME}</u></b>
 
@@ -282,7 +282,7 @@ class WZMLStyle:
 ┠<b>📥 Save Mode :</b> <code>{SAVE_MODE}</code>
 ┖<b>📩 User Bot PM :</b> <code>{BOT_PM}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     MIRROR = '''㊂ <b><u>Mirror/Clone Settings : {NAME}</u></b>
 
@@ -295,7 +295,7 @@ class WZMLStyle:
 ┠<b>📮 Total User TD(s) :</b> <i>{USERTD}</i>
 ┖<b>☁️ Daily Mirror :</b> <code>{DM}</code> per day
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     LEECH = '''㊂ <b><u>Leech Settings for {NAME}</u></b>
 
@@ -312,4 +312,4 @@ class WZMLStyle:
 ┠<b>🌈 Leech Remname :</b> <code>{LREMNAME}</code>
 ┗<b>〽️ Metadata :</b> <code>{LMETA}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
