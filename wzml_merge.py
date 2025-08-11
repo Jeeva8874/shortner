@@ -209,35 +209,35 @@ class WZMLStyle:
     ####--------OVERALL MSG HEADER----------
     STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
     
-    STATUS =         '\n<b>┌ <i><a href="{Url}">{Status}...</a></i></b>'
-    BAR =            '\n<b>├ </b>{Bar}'
-    PROCESS =        '\n<b>├⚡ Process :</b> {Process}'
-    PROCESSED =      '\n<b>├⚡ Processed :</b> {Processed}'
-    TOTALSIZE =      '\n<b>├⚙️ Total Size :</b> {Totalsize}'
-    ETA =            '\n<b>├⏳ ETA :</b> {Eta}'
-    SPEED =          '\n<b>├🚀 Speed :</b> {Speed}'
-    ELAPSED =        '\n<b>├🕓 Elapsed :</b> {Elapsed}'
-    ENGINE =         '\n<b>├🪩 Engine :</b> {Engine}'
-    STA_MODE =       '\n<b>├🌐 Mode :</b> {Mode}'
-    SL =             '\n<b>├🌱 S/L :</b> {S}/{L}'
+    STATUS =         '\n<b>┠ <i><a href="{Url}">{Status}...</a></i></b>'
+    BAR =            '\n<b>┠ </b>{Bar}'
+    PROCESS =        '\n<b>┠⚡ Process :</b> {Process}'
+    PROCESSED =      '\n<b>┠⚡ Processed :</b> {Processed}'
+    TOTALSIZE =      '\n<b>┠⚙️ Total Size :</b> {Totalsize}'
+    ETA =            '\n<b>┠⏳ ETA :</b> {Eta}'
+    SPEED =          '\n<b>┠🚀 Speed :</b> {Speed}'
+    ELAPSED =        '\n<b>┠🕓 Elapsed :</b> {Elapsed}'
+    ENGINE =         '\n<b>┠🪩 Engine :</b> {Engine}'
+    STA_MODE =       '\n<b>┠🌐 Mode :</b> {Mode}'
+    SL =             '\n<b>┠🌱 S/L :</b> {S}/{L}'
     
 
     ####--------SEEDING----------
-    SEED_SIZE =      '\n<b>├⚙️ Size : </b>{Size}'
-    SEED_SPEED =     '\n<b>├🚀 Speed : </b> {Speed}'
-    UPLOADED =       '\n<b>├📤 Uploaded : </b> {Upload}'
-    RATIO =          '\n<b>├📦 Ratio : </b> {Ratio}'
-    TIME =           '\n<b>├⏲️ Time : </b> {Time}'
-    SEED_ENGINE =    '\n<b>├🪩 Engine :</b> {Engine}'
+    SEED_SIZE =      '\n<b>┠⚙️ Size : </b>{Size}'
+    SEED_SPEED =     '\n<b>┠🚀 Speed : </b> {Speed}'
+    UPLOADED =       '\n<b>┠📤 Uploaded : </b> {Upload}'
+    RATIO =          '\n<b>┠📦 Ratio : </b> {Ratio}'
+    TIME =           '\n<b>┠⏲️ Time : </b> {Time}'
+    SEED_ENGINE =    '\n<b>┠🪩 Engine :</b> {Engine}'
 
     ####--------NON-PROGRESSIVE + NON SEEDING----------
-    STATUS_SIZE =    '\n<b>├⚙️ Size : </b>{Size}'
-    NON_ENGINE =     '\n<b>├🔮 Engine :</b> {Engine}'
+    STATUS_SIZE =    '\n<b>┠⚙️ Size : </b>{Size}'
+    NON_ENGINE =     '\n<b>┠🔮 Engine :</b> {Engine}'
 
     ####--------OVERALL MSG FOOTER----------
-    USER =           '\n<b>├🪪 User :</b> {User}'
-    ID =             '\n<b>├🆔 ID :</b> <code>{Id}</code>'
-    BTSEL =          '\n<b>├💫 Select :</b> {Btsel}'
+    USER =           '\n<b>┠🪪 User :</b> {User}'
+    ID =             '\n<b>┠🆔 ID :</b> <code>{Id}</code>'
+    BTSEL =          '\n<b>┠💫 Select :</b> {Btsel}'
     CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n\n'
 
     
