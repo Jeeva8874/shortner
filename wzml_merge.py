@@ -207,7 +207,7 @@ class WZMLStyle:
 
     # def get_readable_message(): ---> bot_utilis.py
     ####--------OVERALL MSG HEADER----------
-    STATUS_NAME =       '<b>{Name}</b>\n┎━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
+    STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
     
     STATUS =         '\n<b>┌ <i><a href="{Url}">{Status}...</a></i></b>'
     BAR =            '\n<b>├ </b>{Bar}'
@@ -238,7 +238,7 @@ class WZMLStyle:
     USER =           '\n<b>├🪪 User :</b> {User}'
     ID =             '\n<b>├🆔 ID :</b> <code>{Id}</code>'
     BTSEL =          '\n<b>├💫 Select :</b> {Btsel}'
-    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n'
+    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n\n'
 
     
     FOOTER =         '<b>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>'
