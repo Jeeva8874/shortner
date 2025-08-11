@@ -67,7 +67,7 @@ class WZMLStyle:
 <b>├ Free :</b> <code>{disk_f}</code>
 <b>└ Total :</b> <code>{disk_t}</code> 
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a> 
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a> 
     '''
     
     SYS_STATS = '''<b>📊 OS SYSTEM 📊</b>
@@ -96,7 +96,7 @@ class WZMLStyle:
 <b>├ Total Core(s) :</b> <code>{total_core}</code>
 <b>└ Usable CPU(s) :</b> <code>{cpu_use}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
     '''
     REPO_STATS = '''<b>🧑‍💻 REPO STATISTICS 🧑‍💻</b>
     
@@ -106,7 +106,7 @@ class WZMLStyle:
 <b>├ Last ChangeLog :</b> <code>{commit_details}</code>
 <b>└ 💥 REMARKS :</b> <code>{remarks}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
     '''
     BOT_LIMITS = '''<b>🚨 BOT LIMITATIONS 🚨</b>
     
@@ -207,7 +207,7 @@ class WZMLStyle:
 
     # def get_readable_message(): ---> bot_utilis.py
     ####--------OVERALL MSG HEADER----------
-    STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
+    STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
     
     STATUS =         '\n<b>┠ <i><a href="{Url}">{Status}...</a></i></b>'
     BAR =            '\n<b>┠ </b>{Bar}'
@@ -238,7 +238,7 @@ class WZMLStyle:
     USER =           '\n<b>┠🪪 User :</b> {User}'
     ID =             '\n<b>┠🆔 ID :</b> <code>{Id}</code>'
     BTSEL =          '\n<b>┠💫 Select :</b> {Btsel}'
-    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBotz"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n\n'
+    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n\n'
 
     
     FOOTER =         '<b>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>'
@@ -309,7 +309,7 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
 
     FFMPEG = '''<b><u>FFmpeg Settings : {NAME}</u></b>
     
@@ -317,7 +317,9 @@ class WZMLStyle:
 <b>├ ➕ Metadata :</b> <b><code>{FMETADATA}</code></b>
 <b>├ 🚩 Attachment :</b> <code>{FATTACHMENT}</code>
 <b>├ 🔊 Audio Remove :</b> <code>{AUDIOREMOVE}</code>
-<b>└ 🔊 Audio Change :</b> <code>{FAUDIOCHANGE}</code>'''
+<b>└ 🔊 Audio Change :</b> <code>{FAUDIOCHANGE}</code>
+
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
 
     UNIVERSAL = '''<b><u>Universal Settings : {NAME}</u></b>
     
@@ -327,7 +329,9 @@ class WZMLStyle:
 <b>├ 🧾 User Session :</b> <code>{USESS}</code>
 <b>├ 📜 MediaInfo Mode :</b> <code>{MEDIAINFO}</code>
 <b>├ 📥 Save Mode :</b> <code>{SAVE_MODE}</code>
-<b>└ 📩 User Bot PM :</b> <code>{BOT_PM}</code>'''
+<b>└ 📩 User Bot PM :</b> <code>{BOT_PM}</code>
+
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
 
     MIRROR = '''<b><u>Mirror/Clone Settings : {NAME}</u></b>
 
@@ -340,7 +344,7 @@ class WZMLStyle:
 <b>├ 📝 User TD Mode :</b> <code>{TMODE}</code>
 <b>└ 📮 Total User TD(s) :</b> <code>{USERTD}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
 
     LEECH = '''<b><u>Leech Settings for {NAME}</u></b>
 
@@ -356,4 +360,4 @@ class WZMLStyle:
 <b>├ 🌈 Leech Remname :</b> <code>{LREMNAME}</code>
 <b>└ 📄 Leech Caption :</b> <code>{LCAPTION}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBotz"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
