@@ -219,7 +219,9 @@ class WZMLStyle:
     ELAPSED =        '\n<b>┠🕓 Elapsed :</b> {Elapsed}'
     ENGINE =         '\n<b>┠🪩 Engine :</b> {Engine}'
     STA_MODE =       '\n<b>┠🌐 Mode :</b> {Mode}'
-    SL =             '\n<b>┠🌱 S/L :</b> {S}/{L}'
+    #SL =             '\n<b>┠🌱 S/L :</b> {S}/{L}'
+    SEEDERS =        '\n<b>┠🌱 Seeders:</b> {Seeders}'
+    LEECHERS =       '\n<b>┠🧲 Leechers:</b> {Leechers}'
     
 
     ####--------SEEDING----------
