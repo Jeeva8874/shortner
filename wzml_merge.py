@@ -3,10 +3,10 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🙋 Owner'
-    ST_BN1_URL = 'https://t.me/HeartThieft_bot'
+    ST_BN1_URL = 'https://t.me/HeartXBots'
     ST_BN2_NAME = '🚀 Updates 🚀'
-    ST_BN2_URL = 'https://t.me/HeartXBotz    '
-    ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
+    ST_BN2_URL = 'https://t.me/HeartXBots'
+    ST_MSG = '''<i>This bot can leech & mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
     ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
@@ -67,7 +67,7 @@ class WZMLStyle:
 <b>├ Free :</b> <code>{disk_f}</code>
 <b>└ Total :</b> <code>{disk_t}</code> 
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a> 
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a> 
     '''
     
     SYS_STATS = '''<b>📊 OS SYSTEM 📊</b>
@@ -96,7 +96,7 @@ class WZMLStyle:
 <b>├ Total Core(s) :</b> <code>{total_core}</code>
 <b>└ Usable CPU(s) :</b> <code>{cpu_use}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>
     '''
     REPO_STATS = '''<b>🧑‍💻 REPO STATISTICS 🧑‍💻</b>
     
@@ -106,7 +106,7 @@ class WZMLStyle:
 <b>├ Last ChangeLog :</b> <code>{commit_details}</code>
 <b>└ 💥 REMARKS :</b> <code>{remarks}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>
     '''
     BOT_LIMITS = '''<b>🚨 BOT LIMITATIONS 🚨</b>
     
@@ -207,7 +207,7 @@ class WZMLStyle:
 
     # def get_readable_message(): ---> bot_utilis.py
     ####--------OVERALL MSG HEADER----------
-    STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻'
+    STATUS_NAME =       '<b>{Name}</b>\n\n┎━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬</b></a> » ━━━━༻'
     
     STATUS =         '\n<b>┠ <i><a href="{Url}">{Status}...</a></i></b>'
     BAR =            '\n<b>┠ </b>{Bar}'
@@ -238,20 +238,21 @@ class WZMLStyle:
     USER =           '\n<b>┠🪪 User :</b> {User}'
     ID =             '\n<b>┠🆔 ID :</b> <code>{Id}</code>'
     BTSEL =          '\n<b>┠💫 Select :</b> {Btsel}'
-    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳</b></a> » ━━━━༻\n\n'
+    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/HeartXBots"><b>𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬</b></a> » ━━━━༻\n\n'
 
     
-    FOOTER =         '<b>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>'
+    FOOTER =         '<b>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>'
     TASKS =          '\n<b>📮Tasks :</b> {Tasks} | <b>Page :</b> {Pagex}\n'
     BOT_TASKS =      '\n<b>📮Tasks :</b> {Tasks}/{Ttask} | <b>Page :</b> {Pagex} | <b>Available :</b> {Free}\n'
     Cpu =            '\n<b>📊CPU :</b> {cpu}% | '
-    Ram =            '<b>🌐RAM :</b> {ram}% | '
-    FREE =           '<b>🆓FREE :</b> {free}'
+    Ram =            '<b>🌐RAM :</b> {ram}%'
+    FREE =           '<b>🆓FREE :</b> {free} | '
+    uptime =         '<b>🕰️UPTIME :</b> {uptime}'
     IN =             '\n<b>⬇️IN :</b> {IN} | '
     OUT =            '<b>⬆️OUT :</b> {OUT}'
     DL =             '\n<b>📉DL :</b> {DL}/s | '
-    UL =             '<b>📈UL :</b> {UL}/s | '
-    uptime =         '<b>🕰️UPTIME :</b> {uptime}'
+    UL =             '<b>📈UL :</b> {UL}/s'
+    
 
     ###--------BUTTONS-------
     PREVIOUS = '◀️'
@@ -309,9 +310,9 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
-    FFMPEG = '''<b><u>FFmpeg Settings : {NAME}</u></b>
+    MEDIAS = '''<b><u>Media Settings : {NAME}</u></b>
     
 <b>┌ ⛓ Merge :</b> <code>{MERGE_MOD}</code>
 <b>├ ➕ Metadata :</b> <b><code>{FMETADATA}</code></b>
@@ -319,7 +320,7 @@ class WZMLStyle:
 <b>├ 🔊 Audio Remove :</b> <code>{AUDIOREMOVE}</code>
 <b>└ 🔊 Audio Change :</b> <code>{FAUDIOCHANGE}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     UNIVERSAL = '''<b><u>Universal Settings : {NAME}</u></b>
     
@@ -331,7 +332,7 @@ class WZMLStyle:
 <b>├ 📥 Save Mode :</b> <code>{SAVE_MODE}</code>
 <b>└ 📩 User Bot PM :</b> <code>{BOT_PM}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     MIRROR = '''<b><u>Mirror/Clone Settings : {NAME}</u></b>
 
@@ -344,20 +345,22 @@ class WZMLStyle:
 <b>├ 📝 User TD Mode :</b> <code>{TMODE}</code>
 <b>└ 📮 Total User TD(s) :</b> <code>{USERTD}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
 
     LEECH = '''<b><u>Leech Settings for {NAME}</u></b>
 
 <b>┌ 📂 Daily Leech : </b><code>{DL} per day</code>
 <b>├ ⚙️ Leech Type :</b> <code>{LTYPE}</code>
 <b>├ 🖼️ Custom Thumbnail :</b> <code>{THUMB}</code>
+<b>├ ♾️ Auto Thumbnail :</b> <code>{AUTOTHUMB}</code>
 <b>├ ♈ Leech Split Size :</b> <code>{SPLIT_SIZE}</code>
 <b>├ ♐ Equal Splits :</b> <code>{EQUAL_SPLIT}</code>
 <b>├ ♒ Media Group :</b> <code>{MEDIA_GROUP}</code>
 <b>├ Ⓟ Leech Prefix :</b> <code>{LPREFIX}</code>
 <b>├ Ⓢ Leech Suffix :</b> <code>{LSUFFIX}</code>
-<b>├ 📦Leech Dumps :</b> <code>{LDUMP}</code>
+<b>├ 📦 Leech Dumps :</b> <code>{LDUMP}</code>
 <b>├ 🌈 Leech Remname :</b> <code>{LREMNAME}</code>
+<b>├ 🗃️ Multi Dump Mode :</b> <code>{MULTIDUMP}</code>
 <b>└ 📄 Leech Caption :</b> <code>{LCAPTION}</code>
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐳 ⚡</b></a>'''
+𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ›› <a href="https://t.me/HeartXBots"><b>⚡ 𝐇𝐞𝐚𝐫𝐭 ✗ 𝐁𝐨𝐭𝐬 ⚡</b></a>'''
