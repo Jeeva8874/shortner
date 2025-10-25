@@ -304,8 +304,9 @@ class WZMLStyle:
     # USER Setting --> user_setting.py 
     USER_SETTING = '''<b><u>User Settings :</u></b>
         
-<b>┌ 🏷️  Name :</b> {NAME} ( <code>{ID}</code> )
-<b>├ 📝  Username :</b> {USERNAME}
+<b>┌ 🏷️ Name :</b> {NAME} 
+<b>├ 🆔 Id :</b> ( <code>{ID}</code> )
+<b>├ 📝 Username :</b> {USERNAME}
 <b>├ 🪬 Telegram DC :</b> {DC}
 <b>└ 🆎 Language :</b> {LANG}
 
